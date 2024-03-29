@@ -1,0 +1,12 @@
+E:\Work\C#\Word Game\bin\Debug\Word Game.exe.config
+E:\Work\C#\Word Game\bin\Debug\Word Game.exe
+E:\Work\C#\Word Game\bin\Debug\Word Game.pdb
+E:\Work\C#\Word Game\obj\Debug\Word Game.csprojAssemblyReference.cache
+E:\Work\C#\Word Game\obj\Debug\Word_Game.Properties.Resources.resources
+E:\Work\C#\Word Game\obj\Debug\Word Game.csproj.GenerateResource.cache
+E:\Work\C#\Word Game\obj\Debug\Word Game.csproj.CoreCompileInputs.cache
+E:\Work\C#\Word Game\obj\Debug\Word Game.exe
+E:\Work\C#\Word Game\obj\Debug\Word Game.pdb
+E:\Work\C#\Word Game\obj\Debug\Word_Game.GameBoard.resources
+E:\Work\C#\Word Game\obj\Debug\Word_Game.HomeBoard.resources
+E:\Work\C#\Word Game\obj\Debug\Word_Game.WordGame.resources
