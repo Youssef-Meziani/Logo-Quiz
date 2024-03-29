@@ -4,7 +4,7 @@ Welcome to Logo Quiz, a fun and challenging desktop game built with .NET Framewo
 
 ## Getting Started
 
-To get started, simply download the repository and navigate to the [Logo Quiz\bin\Debug](Logo%20Quiz/bin/Debug) folder. You'll find the compiled executable file ([Logo Quiz.exe](Logo%20Quiz/bin/Debug/Logo%20Quiz.exe)) there. Run the executable to start playing the game.
+To get started, simply download the repository and navigate to the [Logo Quiz\bin\Debug](bin/Debug) folder. You'll find the compiled executable file ([Logo Quiz.exe](bin/Debug/Logo%20Quiz.exe)) there. Run the executable to start playing the game.
 
 ## Gameplay
 
